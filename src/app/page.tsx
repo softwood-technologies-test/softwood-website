@@ -2,7 +2,7 @@ import Header from "./components/Header";
 
 export default function Home() {
   return (
-    <main className="font-sans">
+    <main className="main-content">
       <>
         <Header />
         Home Page

@@ -20,7 +20,7 @@ const Header = () => {
                 <div className="flex-1">
                 <Link href="/" className="flex items-center">
                     <Image src="/logo.svg" alt="Logo" width={60} height={45} className="mr-2" />
-                    <span className="font-bold text-lg italic">Softwood Textiles</span>
+                    <span className="font-bold text-lg cursive">Softwood Textiles</span>
                 </Link>
                 </div>
                 <div className="flex-none">
